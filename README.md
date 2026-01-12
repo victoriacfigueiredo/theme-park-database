@@ -1,7 +1,7 @@
 # Theme Park Database 🎡
 
 <p align="center">
-	<img src="./projeto_conceitual.png" alt="Projeto Conceitual" width="120" />
+	<img src="./projeto_conceitual.png" alt="Projeto Conceitual" width="480" />
 </p>
 
 Este repositório contém um conjunto de scripts SQL para criar, povoar e consultar um esquema de banco de dados para parques temáticos. Os scripts foram escritos com sintaxe compatível com Oracle.
